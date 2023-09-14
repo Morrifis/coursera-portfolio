@@ -2,7 +2,7 @@
 
 This portfolio is a culmination of the skills and knowledge I acquired during my React course on Coursera. It serves as a testament to my dedication to learning and my passion for front-end development.
 
-[![Coursera Certificate](https://coursera.org/share/b7e35cca82c411cf75b6d4dbcf24b27e)](LINK_TO_CERTIFICATE)
+[![Coursera Certificate](https://img.shields.io/badge/Coursera-Certificate-blue)](https://coursera.org/share/b7e35cca82c411cf75b6d4dbcf24b27e)
 
 ## Overview
 
